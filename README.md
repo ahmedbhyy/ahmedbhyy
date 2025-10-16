@@ -24,10 +24,10 @@ I’m passionate about building intelligent systems and scalable applications th
 
 ## 🤝 **Let's Connect..!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-AhmedBenHajYahia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedbhyy/)
+[![Linkedin Badge](https://img.shields.io/badge/-AhmedBenHajYahia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-ben-haj-yahia)
 [![Mail Badge](https://img.shields.io/badge/-ahmed.belhajyahia@supcom.tn-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmed.belhajyahia@supcom.tn)
 [![GitHub Badge](https://img.shields.io/badge/-ahmedbhyy-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ahmedbhyy)
-[![Instagram Badge](https://img.shields.io/badge/-@ahmedbhy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedbhy/)
+[![Instagram Badge](https://img.shields.io/badge/-@ahmedbhy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedbelhajyahia/)
 ![GitHub followers](https://img.shields.io/github/followers/ahmedbhyy?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=ahmedbhyy)
 
