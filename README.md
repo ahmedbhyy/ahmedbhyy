@@ -6,8 +6,7 @@
   </a>
 </p>
 
-<!-- Avatar -->
-<img title="My Avatar" align="left" src="assets/images/ahmed.png" width="420px" alt="Ahmed Avatar" >
+
 
 ---
 
